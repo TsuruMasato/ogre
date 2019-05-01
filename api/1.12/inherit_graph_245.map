@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_ogre_1_1_sampler.html" title="Class which determines how a TextureUnitState accesses data from a Texture. " alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_d3_d11_sampler.html" title="Ogre::D3D11Sampler" alt="" coords="165,5,311,32"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_g_l3_plus_sampler.html" title="Ogre::GL3PlusSampler" alt="" coords="160,56,316,83"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_metal_sampler.html" title="Ogre::MetalSampler" alt="" coords="169,107,307,133"/>
+</map>

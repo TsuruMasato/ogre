@@ -1,0 +1,10 @@
+<map id="Ogre::DepthBuffer" name="Ogre::DepthBuffer">
+<area shape="rect" id="node3" href="$class_ogre_1_1_d3_d11_depth_buffer.html" title="Ogre::D3D11DepthBuffer" alt="" coords="360,5,529,32"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_d3_d9_depth_buffer.html" title="Ogre::D3D9DepthBuffer" alt="" coords="363,56,526,83"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_g_l_depth_buffer_common.html" title="OpenGL supports 3 different methods: FBO, pbuffer &amp; Copy. " alt="" coords="345,107,544,133"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_metal_depth_buffer.html" title="Ogre::MetalDepthBuffer" alt="" coords="365,157,525,184"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_allocated_object.html" title="RenderSysAlloc" alt="" coords="5,81,121,108"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_g_l3_plus_depth_buffer.html" title="Ogre::GL3PlusDepthBuffer" alt="" coords="592,56,771,83"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_g_l_depth_buffer.html" title="Ogre::GLDepthBuffer" alt="" coords="609,107,754,133"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_g_l_e_s2_depth_buffer.html" title="Ogre::GLES2DepthBuffer" alt="" coords="596,157,767,184"/>
+</map>

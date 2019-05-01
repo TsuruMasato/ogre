@@ -1,0 +1,5 @@
+<map id="Ogre::Sampler" name="Ogre::Sampler">
+<area shape="rect" id="node2" href="$class_ogre_1_1_d3_d11_sampler.html" title="Ogre::D3D11Sampler" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_g_l3_plus_sampler.html" title="Ogre::GL3PlusSampler" alt="" coords="177,80,333,107"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_metal_sampler.html" title="Ogre::MetalSampler" alt="" coords="357,80,496,107"/>
+</map>
