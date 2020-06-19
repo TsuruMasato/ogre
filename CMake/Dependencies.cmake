@@ -159,7 +159,8 @@ if(OGRE_BUILD_DEPENDENCIES AND NOT EXISTS ${OGREDEPS_PATH})
         ${PROJECT_BINARY_DIR}/pugixml-1.9.tar.gz)
     execute_process(COMMAND ${CMAKE_COMMAND}
         -E tar xf pugixml-1.9.tar.gz WORKING_DIRECTORY ${PROJECT_BINARY_DIR})
-    execute_process(COMMAND ${BUILD_COMMAND_COMMON}
+      execute_process(COMMAND ${BUILD_COMMAND_COMMON}
+	-DBUILD_SHARED_LIBS=ON
         ${PROJECT_BINARY_DIR}/pugixml-1.9
         WORKING_DIRECTORY ${PROJECT_BINARY_DIR}/pugixml-1.9)
     execute_process(COMMAND ${CMAKE_COMMAND}
